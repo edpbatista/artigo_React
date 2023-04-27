@@ -1,6 +1,6 @@
 .master {
 
-  margin: 20px;
+  margin: 4rem;
 }
 .titulo {
   text-align: center;
@@ -13,6 +13,10 @@
   line-height: 1.5;
 }
 
+.referencia p {
+  text-align: justify;
+}
+
 h3 {
   font-size: 14px;
   font-weight: bold;
@@ -23,3 +27,12 @@ p {
   text-indent: 2em;
 }
 
+.img{
+  display: flex;
+  width: 50%; /* definir a largura desejada para cada imagem */
+}
+
+.img3{
+  padding: 5px;
+  width: 50%;
+}
